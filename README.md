@@ -15,7 +15,7 @@ A Python tool that converts natural language text into SQL queries using Google'
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/text-to-sql-gemini.git
-cd text-to-sql-gemini
-pip install -r requirements.txt
-add the Google API key in the .env
+1) git clone https://github.com/yourusername/text-to-sql-gemini.git
+2) cd text-to-sql-gemini
+3) pip install -r requirements.txt
+4) add the Google API key in the .env
